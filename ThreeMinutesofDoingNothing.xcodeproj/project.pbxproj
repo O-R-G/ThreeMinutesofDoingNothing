@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		07CFD0EB2166622B003144A7 /* ThreeMinutesofDoingNothingView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07CFD0EA2166622B003144A7 /* ThreeMinutesofDoingNothingView.h */; };
 		07CFD0ED2166622B003144A7 /* ThreeMinutesofDoingNothingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07CFD0EC2166622B003144A7 /* ThreeMinutesofDoingNothingView.m */; };
+		07FEC1E6216697CC00DF0764 /* icon_512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC1E3216697CB00DF0764 /* icon_512x512.png */; };
+		07FEC1E7216697CC00DF0764 /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC1E4216697CB00DF0764 /* thumbnail.png */; };
+		07FEC1E8216697CC00DF0764 /* thumbnail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC1E5216697CC00DF0764 /* thumbnail@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +19,9 @@
 		07CFD0EA2166622B003144A7 /* ThreeMinutesofDoingNothingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeMinutesofDoingNothingView.h; sourceTree = "<group>"; };
 		07CFD0EC2166622B003144A7 /* ThreeMinutesofDoingNothingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeMinutesofDoingNothingView.m; sourceTree = "<group>"; };
 		07CFD0EE2166622B003144A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07FEC1E3216697CB00DF0764 /* icon_512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_512x512.png; sourceTree = "<group>"; };
+		07FEC1E4216697CB00DF0764 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
+		07FEC1E5216697CC00DF0764 /* thumbnail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +57,9 @@
 				07CFD0EA2166622B003144A7 /* ThreeMinutesofDoingNothingView.h */,
 				07CFD0EC2166622B003144A7 /* ThreeMinutesofDoingNothingView.m */,
 				07CFD0EE2166622B003144A7 /* Info.plist */,
+				07FEC1E3216697CB00DF0764 /* icon_512x512.png */,
+				07FEC1E4216697CB00DF0764 /* thumbnail.png */,
+				07FEC1E5216697CC00DF0764 /* thumbnail@2x.png */,
 			);
 			path = ThreeMinutesofDoingNothing;
 			sourceTree = "<group>";
@@ -123,6 +132,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07FEC1E7216697CC00DF0764 /* thumbnail.png in Resources */,
+				07FEC1E6216697CC00DF0764 /* icon_512x512.png in Resources */,
+				07FEC1E8216697CC00DF0764 /* thumbnail@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
