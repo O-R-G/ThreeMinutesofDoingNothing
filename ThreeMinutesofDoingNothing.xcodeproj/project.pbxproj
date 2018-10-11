@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		07CFD0E72166622B003144A7 /* ThreeMinutesofDoingNothing.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThreeMinutesofDoingNothing.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		07CFD0E72166622B003144A7 /* Three Minutes of Doing Nothing.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Three Minutes of Doing Nothing.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07CFD0EA2166622B003144A7 /* ThreeMinutesofDoingNothingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeMinutesofDoingNothingView.h; sourceTree = "<group>"; };
 		07CFD0EC2166622B003144A7 /* ThreeMinutesofDoingNothingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeMinutesofDoingNothingView.m; sourceTree = "<group>"; };
 		07CFD0EE2166622B003144A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		07CFD0E82166622B003144A7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				07CFD0E72166622B003144A7 /* ThreeMinutesofDoingNothing.saver */,
+				07CFD0E72166622B003144A7 /* Three Minutes of Doing Nothing.saver */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		07CFD0E62166622B003144A7 /* ThreeMinutesofDoingNothing */ = {
+		07CFD0E62166622B003144A7 /* Three Minutes of Doing Nothing */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 07CFD0F12166622B003144A7 /* Build configuration list for PBXNativeTarget "ThreeMinutesofDoingNothing" */;
+			buildConfigurationList = 07CFD0F12166622B003144A7 /* Build configuration list for PBXNativeTarget "Three Minutes of Doing Nothing" */;
 			buildPhases = (
 				07CFD0E22166622B003144A7 /* Headers */,
 				07CFD0E32166622B003144A7 /* Sources */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = ThreeMinutesofDoingNothing;
+			name = "Three Minutes of Doing Nothing";
 			productName = ThreeMinutesofDoingNothing;
-			productReference = 07CFD0E72166622B003144A7 /* ThreeMinutesofDoingNothing.saver */;
+			productReference = 07CFD0E72166622B003144A7 /* Three Minutes of Doing Nothing.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				07CFD0E62166622B003144A7 /* ThreeMinutesofDoingNothing */,
+				07CFD0E62166622B003144A7 /* Three Minutes of Doing Nothing */,
 			);
 		};
 /* End PBXProject section */
@@ -271,6 +271,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = ThreeMinutesofDoingNothing/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.ThreeMinutesofDoingNothing";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -285,6 +286,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = ThreeMinutesofDoingNothing/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.ThreeMinutesofDoingNothing";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -303,7 +305,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		07CFD0F12166622B003144A7 /* Build configuration list for PBXNativeTarget "ThreeMinutesofDoingNothing" */ = {
+		07CFD0F12166622B003144A7 /* Build configuration list for PBXNativeTarget "Three Minutes of Doing Nothing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				07CFD0F22166622B003144A7 /* Debug */,
